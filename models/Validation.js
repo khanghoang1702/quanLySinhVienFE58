@@ -55,8 +55,10 @@ var Validation = function () {
     this.kiemTraQRCode = function () {
         console.log('check QR code')
     }
-    this.userB = function(){
-        console.log("asss");
+    this.chucNangDevA = function () {
+        console.log('Dev A')
     }
-    
+    this.userB = function(){
+        console.log("userb");
+    }
 }
