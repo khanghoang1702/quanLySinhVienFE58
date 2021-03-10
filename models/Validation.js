@@ -60,5 +60,6 @@ var Validation = function () {
     }
     this.userB = function(){
         console.log("userbccs");
+     
     }
 }
