@@ -59,6 +59,6 @@ var Validation = function () {
         console.log('Dev A')
     }
     this.userB = function(){
-        console.log("userb");
+        console.log("userbccs");
     }
 }
