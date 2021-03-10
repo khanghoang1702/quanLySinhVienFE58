@@ -58,7 +58,7 @@ var Validation = function () {
     this.chucNangDevA = function () {
         console.log('Dev A')
     }
-    this.userB = function(){
+    this.userB = function () {
         console.log("userb");
     }
 }
